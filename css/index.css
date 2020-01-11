@@ -366,3 +366,32 @@ footer {
   height: auto;
   border-radius: 10px;
 }
+/*Styling contact page*/
+.contactform {
+  display: block;
+  margin-top: 20px;
+  letter-spacing: 2px;
+}
+form {
+  margin: 0 auto;
+  width: 459px;
+}
+label {
+  font-weight: bold;
+}
+input,
+textarea {
+  width: 439px;
+  height: 75px;
+  margin-top: 3px;
+  background-color: pink;
+}
+#submit {
+  width: 127px;
+  height: 50px;
+  background-color: lavender;
+  margin-bottom: 3%;
+}
+#submit:hover {
+  background-color: hotpink;
+}
